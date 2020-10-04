@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "學習歷程",
     "description": "",
     "home_page_url": "https://Keycatowo.github.io/resume",
     "feed_url": "https://Keycatowo.github.io/resume/feed.json",
@@ -9,5 +9,21 @@
         "name": "owo"
     },
     "items": [
+        {
+            "id": "https://Keycatowo.github.io/resume/a.html",
+            "url": "https://Keycatowo.github.io/resume/a.html",
+            "title": "a",
+            "summary": " badf&nbsp; asf as f af s&nbsp; ",
+            "content_html": "\n  <p>\n    badf&nbsp;\n  </p>\n\n  <p>\n    asf as f<br><br>\n  </p>\n\n  <p>\n    af s&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Keycatowo.github.io/resume/media/posts/2/Zhe-Shi-Shi-Mo-Niao.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://Keycatowo.github.io/resume/media/posts/2/responsive/Zhe-Shi-Shi-Mo-Niao-xs.png 300w ,https://Keycatowo.github.io/resume/media/posts/2/responsive/Zhe-Shi-Shi-Mo-Niao-sm.png 480w ,https://Keycatowo.github.io/resume/media/posts/2/responsive/Zhe-Shi-Shi-Mo-Niao-md.png 768w\"  height=\"1526\" width=\"2394\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://Keycatowo.github.io/resume/media/posts/2/20934986_1594239380618324_2771975253119499765_o.jpg",
+            "author": {
+                "name": "owo"
+            },
+            "tags": [
+                   "01"
+            ],
+            "date_published": "2020-10-04T08:22:13+08:00",
+            "date_modified": "2020-10-04T08:22:13+08:00"
+        }
     ]
 }
