@@ -10,21 +10,6 @@
     <id>https://Keycatowo.github.io/resume</id>
 
     <entry>
-        <title>物理之夜：樂團負責人</title>
-        <author>
-            <name>劉弘祥</name>
-        </author>
-        <link href="https://Keycatowo.github.io/resume/wu-li-zhi-ye-le-tuan-fu-ze-ren.html"/>
-        <id>https://Keycatowo.github.io/resume/wu-li-zhi-ye-le-tuan-fu-ze-ren.html</id>
-            <category term="領導能力"/>
-            <category term="大三"/>
-            <category term="團隊"/>
-
-        <updated>2020-10-14T19:05:45+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>Google ML Study Jam</title>
         <author>
             <name>劉弘祥</name>
@@ -35,7 +20,7 @@
             <category term="自主學習"/>
             <category term="大二"/>
 
-        <updated>2020-10-14T19:05:45+08:00</updated>
+        <updated>2020-10-14T20:20:15+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Keycatowo.github.io/resume/media/posts/32/GCP2.png" alt="" />
@@ -60,35 +45,6 @@
         </content>
     </entry>
     <entry>
-        <title>DIY:維修BASS</title>
-        <author>
-            <name>劉弘祥</name>
-        </author>
-        <link href="https://Keycatowo.github.io/resume/diywei-xiu-bass.html"/>
-        <id>https://Keycatowo.github.io/resume/diywei-xiu-bass.html</id>
-            <category term="大一"/>
-            <category term="DIY"/>
-
-        <updated>2020-10-14T19:05:45+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Keycatowo.github.io/resume/media/posts/31/Wei-Xiu.jpg" alt="" />
-                    核心價值應用所學自主解決實際問題拆解實際器物觀察結構
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Keycatowo.github.io/resume/media/posts/31/Wei-Xiu.jpg" alt="" />
-                <h2 id="核心價值">核心價值</h2>
-<ul>
-<li>應用所學自主解決實際問題</li>
-<li>拆解實際器物觀察結構</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>資工系修課：程式設計二</title>
         <author>
             <name>劉弘祥</name>
@@ -100,7 +56,7 @@
             <category term="大三"/>
             <category term="團隊"/>
 
-        <updated>2020-10-14T19:05:45+08:00</updated>
+        <updated>2020-10-14T20:20:15+08:00</updated>
             <summary>
                 <![CDATA[
                     核心價值帶領團隊使用git協作開發開發命令行互動式功能手刻STL(vector、list)經歷簡介雖然之前有用過git，但第一次在一個新組合的team裡面使用，要在自己其實也沒有到十分熟悉的情況下要試著將一個學習曲線不是那麼平滑的工具帶入到一個團隊協作裡面是個蠻大的挑戰的，第一次merge的時候花了很久的時間，第一次處理pull request，然後因為沒有太熟悉流程所以開了一堆branch😂 在一開始聽到這個遊戲的規則的時候自己想了很久，覺得這個遊戲是屬於兩人零和有限確定完全情報遊戲，而根據遊戲的規則和複雜度來說會有很多地方是可以對稱等價的情況，直觀上是覺得應該會是屬於先手必勝類型，於是在學期中的時候一直自己和自己打，試圖找到些規則，但也許是剛好思考路徑就差了那麼一點點，後來在寫出來的時候卻沒有想像中的必勝 一直是到有隔壁組的同學來和我們說是存在理論上先手必勝的方法的，於是我們才又把原本的想法重新拿出來打磨，一時之間是一個亦喜亦憂的很複雜的心情，喜的是確實是有必勝法而且和原本思考的方向非常接近，憂的是覺得這樣就只是比有沒有知道存在必勝法和誰可以把它實作得比較完備而已。這樣這個project的就變成不像是單純寫遊戲那樣激發創意和設計，也不是單純去設計一個演算法，而是照著規則把一個別人想出來的東西寫出來，變成是一個有點尷尬的定位的感覺。 雖然如此，我們還是試圖在過程中加入很多其他要素來讓這個程式變得比較有趣式變得比較有趣式變得比較有趣，例如利用getline()方式來達成一步一步下棋的模式方便除錯演算法、利用sleep()的方式來模擬自動下棋的動畫效果、利用getch()來做出方向鍵可以控制的選單效果(雖然這個部分因為Linux沒有內建getch()所以花費了一段心力在做這件事情)、將原本的一回合兩個AI對下改成玩家對AI的先後手模式(雖然只能輸入座標的方式感覺起來還有可以針對使用者體驗優化的空間就是了w) 但整體來說還是一個做了多少就可以看得到多少成果的project，比起STL那個project做了很久可能也還是看不到做出了些什麼，這個是做了什麼就會感受的到變化的(不論是介面還是AI設計的完備性)，雖然過程很累但算是滿特別滿值得的體驗的o(≧v≦)o 
@@ -127,105 +83,7 @@
         </content>
     </entry>
     <entry>
-        <title>研習營：交通大學深度學習與工業大數據</title>
-        <author>
-            <name>劉弘祥</name>
-        </author>
-        <link href="https://Keycatowo.github.io/resume/yan-xi-ying-jiao-tong-da-xue-shen-du-xue-xi-yu-gong-ye-da-shu-ju.html"/>
-        <id>https://Keycatowo.github.io/resume/yan-xi-ying-jiao-tong-da-xue-shen-du-xue-xi-yu-gong-ye-da-shu-ju.html</id>
-            <category term="資訊"/>
-            <category term="研習"/>
-            <category term="機器學習"/>
-            <category term="大二"/>
-
-        <updated>2020-10-14T19:05:45+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Keycatowo.github.io/resume/media/posts/23/Jiao-Da-Gong-Ye-Da-Shu-Ju-2.jpg" alt="" />
-                    實作基本模型DNNCNN
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Keycatowo.github.io/resume/media/posts/23/Jiao-Da-Gong-Ye-Da-Shu-Ju-2.jpg" alt="" />
-                <ul>
-<li>實作基本模型<ul>
-<li>DNN</li>
-<li>CNN</li>
-</ul>
-</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>資訊年會：MOPCON/SITCON/資安年會</title>
-        <author>
-            <name>劉弘祥</name>
-        </author>
-        <link href="https://Keycatowo.github.io/resume/zi-xun-nian-hui-mopconsitconzi-an-nian-hui.html"/>
-        <id>https://Keycatowo.github.io/resume/zi-xun-nian-hui-mopconsitconzi-an-nian-hui.html</id>
-            <category term="資訊"/>
-            <category term="活動"/>
-            <category term="大三"/>
-
-        <updated>2020-10-14T19:05:45+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Keycatowo.github.io/resume/media/posts/22/MOPCON.jpg" alt="" />
-                    核心價值自主學習認識產業現況學習他人經驗經歷簡介在大二開始逐漸把重心放在資訊領域之後，便開始參與這些相關的活動。在短短的一兩天之內可以汲取到許多不同講者針對不同題目分享。 而且
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Keycatowo.github.io/resume/media/posts/22/MOPCON.jpg" alt="" />
-                <h2 id="核心價值">核心價值</h2>
-<ul>
-<li>自主學習認識產業現況</li>
-<li>學習他人經驗</li>
-</ul>
-<h2 id="經歷簡介">經歷簡介</h2>
-<p>在大二開始逐漸把重心放在資訊領域之後，便開始參與這些相關的活動。在短短的一兩天之內可以汲取到許多不同講者針對不同題目分享。  </p>
-<p>而且</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>電子電路實驗</title>
-        <author>
-            <name>劉弘祥</name>
-        </author>
-        <link href="https://Keycatowo.github.io/resume/dian-zi-dian-lu-shi-yan.html"/>
-        <id>https://Keycatowo.github.io/resume/dian-zi-dian-lu-shi-yan.html</id>
-            <category term="電機"/>
-            <category term="實驗"/>
-            <category term="大三"/>
-            <category term="修課"/>
-
-        <updated>2020-10-14T19:05:45+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://Keycatowo.github.io/resume/media/posts/20/Dian-Zi-Dian-Lu-Shi-Yan-Ya-Suo.png" alt="" />
-                    核心價值理論與實驗的計算基本元件電路心電圖
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://Keycatowo.github.io/resume/media/posts/20/Dian-Zi-Dian-Lu-Shi-Yan-Ya-Suo.png" alt="" />
-                <h2 id="核心價值">核心價值</h2>
-<ul>
-<li>理論與實驗的計算</li>
-<li>基本元件電路</li>
-<li>心電圖</li>
-</ul>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Twlight五系聯合耶舞調酒師</title>
+        <title>Twilight五系聯合耶舞調酒師</title>
         <author>
             <name>劉弘祥</name>
         </author>
@@ -237,10 +95,10 @@
             <category term="應變能力"/>
             <category term="大二"/>
 
-        <updated>2020-10-14T19:05:45+08:00</updated>
+        <updated>2020-10-14T20:20:15+08:00</updated>
             <summary>
                 <![CDATA[
-                    核心價值臨場處理能力流程優化能力經歷簡述
+                    核心價值臨場處理能力流程優化能力經歷簡述原本因為自己只是有興趣所以接觸了調酒文化，後來被朋友推薦接下Twilight五系聯合耶舞的調酒師。雖然之前有在載物書院負責站過吧臺，但一個人負責全場四五百人的調酒還是第一次嘗試。 在活動前，因為主辦方需要估計預算及準備材料，而且希望可以有多樣化的飲品清單。於是在幾番討論之後，我在保持口味和視覺的同時，設計完酒單同時將材料及成本估算之後提供給主辦方。 在活動中，因為以往的耶誕舞會的調酒區通常都會大排長龍而被人詬病。因此我重新設計了製作流程，不但解決了速度過慢的問題，還獲得活動參與者們對於口味和視覺的一致好評。 
                 ]]>
             </summary>
         <content type="html">
@@ -251,6 +109,11 @@
 <li>流程優化能力</li>
 </ul>
 <h2 id="經歷簡述">經歷簡述</h2>
+<p>原本因為自己只是有興趣所以接觸了調酒文化，後來被朋友推薦接下Twilight五系聯合耶舞的調酒師。雖然之前有在載物書院負責站過吧臺，但一個人負責全場四五百人的調酒還是第一次嘗試。</p>
+<p>在活動前，因為主辦方需要估計預算及準備材料，而且希望可以有多樣化的飲品清單。於是在幾番討論之後，我在保持口味和視覺的同時，設計完酒單同時將材料及成本估算之後提供給主辦方。
+<figure class="post__image"><img loading="lazy" src="https://i.imgur.com/lyD6O05.jpg" data-is-external-image="true"  alt="" /></figure></p>
+<p>在活動中，因為以往的耶誕舞會的調酒區通常都會大排長龍而被人詬病。因此我重新設計了製作流程，不但解決了速度過慢的問題，還獲得活動參與者們對於口味和視覺的一致好評。</p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/loZzHh2.jpg" data-is-external-image="true"  alt="" /></figure></p>
 
             ]]>
         </content>
@@ -267,11 +130,11 @@
             <category term="工作"/>
             <category term="大三"/>
 
-        <updated>2020-10-14T19:05:45+08:00</updated>
+        <updated>2020-10-14T20:20:15+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://Keycatowo.github.io/resume/media/posts/15/Yi-Shu-Zhong-Xin.jpg" alt="" />
-                    核心價值學習與不同人士進行溝通學習處理不定領域需求性問題經歷簡述
+                    核心價值學習與不同人士進行溝通學習處理不定領域需求性問題經歷簡述在大二的時候修習林怡君老師開設的通識課「音樂創作」時的因緣際會之下接任了老師的行政助理。而平時主要的工作內容是協助老師進行一些辦公文件上的處理，但因為很常會遇到一些技術細節上的問題，所以除了依靠自己本身的經驗之外，還很常需要反復測試和上網爬文找答案，和寫程式的時候的除錯有幾分相似呢。 因為怡君老師是清大AI樂團的指導老師，所以有參與協助舉辦了幾場相關的講座，在過程中要負責聯絡講者和協助場地處理事宜。雖然和專業領域無關，但是因為要妥善顧及環節中的人事物，也是需要仔細的心謹慎的處理才行。 
                 ]]>
             </summary>
         <content type="html">
@@ -283,6 +146,8 @@
 <li>學習處理不定領域需求性問題</li>
 </ul>
 <h2 id="經歷簡述">經歷簡述</h2>
+<p>在大二的時候修習林怡君老師開設的通識課「音樂創作」時的因緣際會之下接任了老師的行政助理。而平時主要的工作內容是協助老師進行一些辦公文件上的處理，但因為很常會遇到一些技術細節上的問題，所以除了依靠自己本身的經驗之外，還很常需要反復測試和上網爬文找答案，和寫程式的時候的除錯有幾分相似呢。  </p>
+<p>因為怡君老師是清大AI樂團的指導老師，所以有參與協助舉辦了幾場相關的講座，在過程中要負責聯絡講者和協助場地處理事宜。雖然和專業領域無關，但是因為要妥善顧及環節中的人事物，也是需要仔細的心謹慎的處理才行。  </p>
 
             ]]>
         </content>
@@ -298,7 +163,7 @@
             <category term="生醫"/>
             <category term="大三"/>
 
-        <updated>2020-10-14T19:05:45+08:00</updated>
+        <updated>2020-10-14T20:20:15+08:00</updated>
             <summary>
                 <![CDATA[
                     核心價值學習操作國網中心大型主機學習基因體定序相關知識學習資料視覺化工具經歷簡述
@@ -315,6 +180,46 @@
 <h2 id="經歷簡述">經歷簡述</h2>
 <p><figure class="post__image"><img loading="lazy" src="https://datastudio.google.com/reporting/8023234e-5077-48f4-b79e-0cc76d1b00e9/page/C1hZB" data-is-external-image="true"  alt="Digit培訓小組成果：世界快樂指數報表" /></figure>
 <figure class="post__image"><img loading="lazy" src="https://i.imgur.com/QQCKsHO.png" data-is-external-image="true"  alt="" /></figure></p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>資策會數據松</title>
+        <author>
+            <name>劉弘祥</name>
+        </author>
+        <link href="https://Keycatowo.github.io/resume/zi-ce-hui-shu-ju-song.html"/>
+        <id>https://Keycatowo.github.io/resume/zi-ce-hui-shu-ju-song.html</id>
+            <category term="資料分析"/>
+            <category term="比賽"/>
+            <category term="大四"/>
+            <category term="團隊"/>
+
+        <updated>2020-10-14T20:20:15+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Keycatowo.github.io/resume/media/posts/12/Shu-Ju-Song.jpg" alt="" />
+                    核心價值短時間密集開發經驗操作千萬級資料經驗資料清洗流程經驗業界人士討論及回饋經歷簡述在大四的開學前剛好看到了這個活動，因此和幾個朋友一起組隊參加，這也是我第一次參加黑客松類型的活動。這個活動的核心是在於三家不同的公司提供其企業內部的實際資料(天氣、發票、輿情)，讓參加者利用這些資料和政府開放的資料集結合進行開發。 而活動中大家一開始遇到最大的問題是資料集太大了，其中輿情的資料集一共有超過2600萬筆rowdata(12G大小)，一般大家的電腦都沒辦法直接打開。我因為在參加之前的時候就有預估過資料集尺度可能會需要解決的問題，再加上暑假時候有操作使用國網中心主機的經驗，所以我在活動前就先在TWCC上開了一個記憶體夠大的虛擬容器，同時在本地端利用SSH連線到伺服器上使用jupyter notebook進行開發。 和組員在初賽時候討論出來，我們認為本次活動的資料的核心價值在於發票怪獸提供的資料是包含一個使用者(去識別化，僅有ID)前後不同時間點的消費記錄。因此我們著重的方向是在於針對商家所提供的產品顧問服務，包含消費者族群輪廓的構建、不同產品之間的游離分析、產品銷售過程中的輿論追蹤等。 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://Keycatowo.github.io/resume/media/posts/12/Shu-Ju-Song.jpg" alt="" />
+                <h2 id="核心價值">核心價值</h2>
+<ul>
+<li>短時間密集開發經驗</li>
+<li>操作千萬級資料經驗</li>
+<li>資料清洗流程經驗</li>
+<li>業界人士討論及回饋</li>
+</ul>
+<h2 id="經歷簡述">經歷簡述</h2>
+<p>在大四的開學前剛好看到了這個活動，因此和幾個朋友一起組隊參加，這也是我第一次參加黑客松類型的活動。這個活動的核心是在於三家不同的公司提供其企業內部的實際資料(天氣、發票、輿情)，讓參加者利用這些資料和政府開放的資料集結合進行開發。  </p>
+<p>而活動中大家一開始遇到最大的問題是資料集太大了，其中輿情的資料集一共有超過2600萬筆rowdata(12G大小)，一般大家的電腦都沒辦法直接打開。我因為在參加之前的時候就有預估過資料集尺度可能會需要解決的問題，再加上暑假時候有操作使用國網中心主機的經驗，所以我在活動前就先在TWCC上開了一個記憶體夠大的虛擬容器，同時在本地端利用SSH連線到伺服器上使用jupyter notebook進行開發。  </p>
+<p>和組員在初賽時候討論出來，我們認為本次活動的資料的核心價值在於發票怪獸提供的資料是包含一個使用者(去識別化，僅有ID)前後不同時間點的消費記錄。因此我們著重的方向是在於針對商家所提供的產品顧問服務，包含消費者族群輪廓的構建、不同產品之間的游離分析、產品銷售過程中的輿論追蹤等。</p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/dC30AtJ.png" data-is-external-image="true"  alt="" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/MF1JbKp.jpg" data-is-external-image="true"  alt="" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://i.imgur.com/drWvfqq.jpg" data-is-external-image="true"  alt="" /></figure></p>
 
             ]]>
         </content>
