@@ -6,24 +6,153 @@
     "feed_url": "https://Keycatowo.github.io/resume/feed.json",
     "user_comment": "",
     "author": {
-        "name": "owo"
+        "name": "劉弘祥"
     },
     "items": [
         {
-            "id": "https://Keycatowo.github.io/resume/a.html",
-            "url": "https://Keycatowo.github.io/resume/a.html",
-            "title": "a",
-            "summary": " badf&nbsp; asf as f af s&nbsp; ",
-            "content_html": "\n  <p>\n    badf&nbsp;\n  </p>\n\n  <p>\n    asf as f<br><br>\n  </p>\n\n  <p>\n    af s&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://Keycatowo.github.io/resume/media/posts/2/Zhe-Shi-Shi-Mo-Niao.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://Keycatowo.github.io/resume/media/posts/2/responsive/Zhe-Shi-Shi-Mo-Niao-xs.png 300w ,https://Keycatowo.github.io/resume/media/posts/2/responsive/Zhe-Shi-Shi-Mo-Niao-sm.png 480w ,https://Keycatowo.github.io/resume/media/posts/2/responsive/Zhe-Shi-Shi-Mo-Niao-md.png 768w\"  height=\"1526\" width=\"2394\" alt=\"\" />\n      \n    </figure>",
-            "image": "https://Keycatowo.github.io/resume/media/posts/2/20934986_1594239380618324_2771975253119499765_o.jpg",
+            "id": "https://Keycatowo.github.io/resume/wu-li-zhi-ye-le-tuan-fu-ze-ren.html",
+            "url": "https://Keycatowo.github.io/resume/wu-li-zhi-ye-le-tuan-fu-ze-ren.html",
+            "title": "物理之夜：樂團負責人",
+            "image": "https://Keycatowo.github.io/resume/media/posts/34/Wu-Ye-Le-Tuan-Fu-Ze.jpg",
             "author": {
-                "name": "owo"
+                "name": "劉弘祥"
             },
             "tags": [
-                   "01"
+                   "領導能力",
+                   "大三",
+                   "團隊"
             ],
-            "date_published": "2020-10-04T08:22:13+08:00",
-            "date_modified": "2020-10-04T08:22:13+08:00"
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/google-cloud-platform-xue-xi.html",
+            "url": "https://Keycatowo.github.io/resume/google-cloud-platform-xue-xi.html",
+            "title": "Google ML Study Jam",
+            "summary": "核心價值自主學習學習使用雲端平臺相關資料https://events.withgoogle.com/ml-study-jam-basic-tw/",
+            "content_html": "<h2 id=\"核心價值\">核心價值</h2>\n<ul>\n<li>自主學習</li>\n<li>學習使用雲端平臺</li>\n</ul>\n<h2 id=\"相關資料\">相關資料</h2>\n<p><a href=\"https://events.withgoogle.com/ml-study-jam-basic-tw/\">https://events.withgoogle.com/ml-study-jam-basic-tw/</a></p>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/32/GCP2.png",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "資訊",
+                   "自主學習",
+                   "大二"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/diywei-xiu-bass.html",
+            "url": "https://Keycatowo.github.io/resume/diywei-xiu-bass.html",
+            "title": "DIY:維修BASS",
+            "summary": "核心價值應用所學自主解決實際問題拆解實際器物觀察結構",
+            "content_html": "<h2 id=\"核心價值\">核心價值</h2>\n<ul>\n<li>應用所學自主解決實際問題</li>\n<li>拆解實際器物觀察結構</li>\n</ul>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/31/Wei-Xiu.jpg",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "大一",
+                   "DIY"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/yan-xi-ying-jiao-tong-da-xue-shen-du-xue-xi-yu-gong-ye-da-shu-ju.html",
+            "url": "https://Keycatowo.github.io/resume/yan-xi-ying-jiao-tong-da-xue-shen-du-xue-xi-yu-gong-ye-da-shu-ju.html",
+            "title": "研習營：交通大學深度學習與工業大數據",
+            "summary": "實作基本模型DNNCNN",
+            "content_html": "<ul>\n<li>實作基本模型<ul>\n<li>DNN</li>\n<li>CNN</li>\n</ul>\n</li>\n</ul>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/23/Jiao-Da-Gong-Ye-Da-Shu-Ju-2.jpg",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "資訊",
+                   "研習",
+                   "機器學習",
+                   "大二"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/zi-xun-nian-hui-mopconsitconzi-an-nian-hui.html",
+            "url": "https://Keycatowo.github.io/resume/zi-xun-nian-hui-mopconsitconzi-an-nian-hui.html",
+            "title": "資訊年會：MOPCON/SITCON/資安年會",
+            "summary": "核心價值自主學習認識產業現況學習他人經驗",
+            "content_html": "<h2 id=\"核心價值\">核心價值</h2>\n<ul>\n<li>自主學習認識產業現況</li>\n<li>學習他人經驗</li>\n</ul>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/22/MOPCON.jpg",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "資訊",
+                   "活動",
+                   "大三"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/dian-zi-dian-lu-shi-yan.html",
+            "url": "https://Keycatowo.github.io/resume/dian-zi-dian-lu-shi-yan.html",
+            "title": "電子電路實驗",
+            "summary": "核心價值理論與實驗的計算基本元件電路心電圖",
+            "content_html": "<h2 id=\"核心價值\">核心價值</h2>\n<ul>\n<li>理論與實驗的計算</li>\n<li>基本元件電路</li>\n<li>心電圖</li>\n</ul>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/20/Dian-Zi-Dian-Lu-Shi-Yan-Ya-Suo.png",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "電機",
+                   "實驗",
+                   "大三",
+                   "修課"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/qing-da-yi-shu-zhong-xin-xing-zheng-zhu-li-gong-du.html",
+            "url": "https://Keycatowo.github.io/resume/qing-da-yi-shu-zhong-xin-xing-zheng-zhu-li-gong-du.html",
+            "title": "清大藝術中心行政助理工讀",
+            "summary": "核心價值學習與不同人士進行溝通學習處理不定領域需求性問題",
+            "content_html": "<h2 id=\"核心價值\">核心價值</h2>\n<ul>\n<li>學習與不同人士進行溝通</li>\n<li>學習處理不定領域需求性問題</li>\n</ul>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/15/Yi-Shu-Zhong-Xin.jpg",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "溝通",
+                   "應變能力",
+                   "工作",
+                   "大三"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
+        },
+        {
+            "id": "https://Keycatowo.github.io/resume/zi-ce-hui-shu-ju-song.html",
+            "url": "https://Keycatowo.github.io/resume/zi-ce-hui-shu-ju-song.html",
+            "title": "資策會數據松",
+            "summary": "核心價值短時間密集開發經驗操作千萬級資料經驗資料清洗流程經驗業界人士討論及回饋經歷簡述在大四的開學前剛好看到了這個活動，因此和幾個朋友一起組隊參加，這也是我第一次參加黑客松類型的活動。這個活動的核心是在於三家不同的公司提供其企業內部的實際資料(天氣、發票、輿情)，讓參加者利用這些資料和政府開放的資料集結合進行開發。 而活動中大家一開始遇到最大的問題是資料集太大了，其中輿情的資料集一共有超過2600萬筆rowdata(12G大小)，一般大家的電腦都沒辦法直接打開。我因為在參加之前的時候就有預估過資料集尺度可能會需要解決的問題，再加上暑假時候有操作使用國網中心主機的經驗，所以我在活動前就先在TWCC上開了一個記憶體夠大的虛擬容器，同時在本地端利用SSH連線到伺服器上使用jupyter notebook進行開發。 和組員在初賽時候討論出來，我們認為本次活動的資料的核心價值在於發票怪獸提供的資料是包含一個使用者(去識別化，僅有ID)前後不同時間點的消費記錄。因此我們著重的方向是在於針對商家所提供的產品顧問服務，包含消費者族群輪廓的構建、不同產品之間的游離分析、產品銷售過程中的輿論追蹤等。 ",
+            "content_html": "<h2 id=\"核心價值\">核心價值</h2>\n<ul>\n<li>短時間密集開發經驗</li>\n<li>操作千萬級資料經驗</li>\n<li>資料清洗流程經驗</li>\n<li>業界人士討論及回饋</li>\n</ul>\n<h2 id=\"經歷簡述\">經歷簡述</h2>\n<p>在大四的開學前剛好看到了這個活動，因此和幾個朋友一起組隊參加，這也是我第一次參加黑客松類型的活動。這個活動的核心是在於三家不同的公司提供其企業內部的實際資料(天氣、發票、輿情)，讓參加者利用這些資料和政府開放的資料集結合進行開發。  </p>\n<p>而活動中大家一開始遇到最大的問題是資料集太大了，其中輿情的資料集一共有超過2600萬筆rowdata(12G大小)，一般大家的電腦都沒辦法直接打開。我因為在參加之前的時候就有預估過資料集尺度可能會需要解決的問題，再加上暑假時候有操作使用國網中心主機的經驗，所以我在活動前就先在TWCC上開了一個記憶體夠大的虛擬容器，同時在本地端利用SSH連線到伺服器上使用jupyter notebook進行開發。  </p>\n<p>和組員在初賽時候討論出來，我們認為本次活動的資料的核心價值在於發票怪獸提供的資料是包含一個使用者(去識別化，僅有ID)前後不同時間點的消費記錄。因此我們著重的方向是在於針對商家所提供的產品顧問服務，包含消費者族群輪廓的構建、不同產品之間的游離分析、產品銷售過程中的輿論追蹤等。</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/dC30AtJ.png\" data-is-external-image=\"true\"  alt=\"\" /></figure></p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/MF1JbKp.jpg\" data-is-external-image=\"true\"  alt=\"\" /></figure></p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://i.imgur.com/drWvfqq.jpg\" data-is-external-image=\"true\"  alt=\"\" /></figure></p>\n",
+            "image": "https://Keycatowo.github.io/resume/media/posts/12/Shu-Ju-Song.jpg",
+            "author": {
+                "name": "劉弘祥"
+            },
+            "tags": [
+                   "資料分析",
+                   "比賽",
+                   "大四",
+                   "團隊"
+            ],
+            "date_published": "2020-10-14T11:08:25+08:00",
+            "date_modified": "2020-10-14T11:08:25+08:00"
         }
     ]
 }
